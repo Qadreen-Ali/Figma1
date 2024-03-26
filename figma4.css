@@ -1,0 +1,14 @@
+.logo{
+    font-weight: 400;
+
+}
+.logo h1{
+    padding: 10px 30px;
+    font-weight: 900;
+}
+.part{
+    display: flex;
+    flex-direction: column;
+    margin: 0px 900px 0px 900px;
+
+}

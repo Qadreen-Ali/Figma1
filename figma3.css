@@ -1,0 +1,14 @@
+.logo{
+    font-size: 50px;
+    margin-bottom: 20px;
+}
+/* .image{
+    height: 200px;
+} */
+.part{
+    margin: 100px;
+    /* margin-top: -580px; */
+padding: 300px;
+display: flex;
+flex-direction: row;
+}

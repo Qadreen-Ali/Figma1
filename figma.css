@@ -1,0 +1,63 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+.logo{
+font-size: 2em;
+letter-spacing: 12;
+width: 600px;
+height: 550px;
+background-color: bisque;
+
+}
+
+.image img{
+    width: 450px;
+    height: 400px;
+    margin-bottom: 30px;
+}
+.paragraph h3{
+    text-align: left;
+    font-weight: 400;
+}
+.paragraph p{
+    font-size: .5em;
+    text-align: left;
+}
+.part{
+    display:flex;
+    flex-direction: row;
+justify-content: right;
+margin-top: -580px;
+padding: 100px;
+}
+/* .part .form .email{
+    width: 500px;
+    height: 100px;
+} */
+.form h5{
+    margin-bottom: 15px;
+}
+.form .password{
+  width: 500px;
+  height: 40px;
+  border-radius: 8px;
+}
+.part .remenber{
+    /* gap: 100px; */
+    margin: 10px;
+    /* justify-content: space-between; */
+    display: flex;
+    justify-content: space-between;
+}
+button{
+    width: 500px;
+    height: 40px;
+    text-align: center;
+border-radius: 8px;
+background-color: #000;
+color: #fff;
+align-items: center;
+}
